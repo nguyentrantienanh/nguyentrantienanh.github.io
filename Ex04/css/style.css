@@ -68,6 +68,6 @@ footer {
 #newsletter form input[type="email"],
 .quote input,
 .quote textarea {
-  width:1500px;
+  width:100%;
   display: flex;
 }
